@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Webhotel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Webhotel.85j4y261q5.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\banner-image.png",
+      "PackagePath": "staticwebassets\\banner-image.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\bed.svg",
+      "PackagePath": "staticwebassets\\bed.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\booking-image.png",
+      "PackagePath": "staticwebassets\\booking-image.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\calendar-tick.svg",
+      "PackagePath": "staticwebassets\\calendar-tick.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\calendar.svg",
+      "PackagePath": "staticwebassets\\calendar.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\call-calling.svg",
+      "PackagePath": "staticwebassets\\call-calling.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\chevron-down.svg",
+      "PackagePath": "staticwebassets\\chevron-down.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\close.png",
+      "PackagePath": "staticwebassets\\close.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\css\\output.css",
+      "PackagePath": "staticwebassets\\css\\output.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\decorated-pattern-2.svg",
+      "PackagePath": "staticwebassets\\decorated-pattern-2.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\decorated-pattern.svg",
+      "PackagePath": "staticwebassets\\decorated-pattern.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\events-1.png",
+      "PackagePath": "staticwebassets\\events-1.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\events-2.png",
+      "PackagePath": "staticwebassets\\events-2.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\events-3.png",
+      "PackagePath": "staticwebassets\\events-3.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\facebook.svg",
+      "PackagePath": "staticwebassets\\facebook.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\food.svg",
+      "PackagePath": "staticwebassets\\food.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\galery-6.png",
+      "PackagePath": "staticwebassets\\galery-6.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\gallery-1.png",
+      "PackagePath": "staticwebassets\\gallery-1.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\gallery-2.png",
+      "PackagePath": "staticwebassets\\gallery-2.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\gallery-3.png",
+      "PackagePath": "staticwebassets\\gallery-3.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\gallery-4.png",
+      "PackagePath": "staticwebassets\\gallery-4.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\gallery-5.png",
+      "PackagePath": "staticwebassets\\gallery-5.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\header-image.jpg",
+      "PackagePath": "staticwebassets\\header-image.jpg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\hotel.svg",
+      "PackagePath": "staticwebassets\\hotel.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\hotellogo.jpg",
+      "PackagePath": "staticwebassets\\hotellogo.jpg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\hotellogo.svg",
+      "PackagePath": "staticwebassets\\hotellogo.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\instagram.svg",
+      "PackagePath": "staticwebassets\\instagram.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\map-marker.svg",
+      "PackagePath": "staticwebassets\\map-marker.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\pinterest.svg",
+      "PackagePath": "staticwebassets\\pinterest.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\plane.svg",
+      "PackagePath": "staticwebassets\\plane.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\pool.svg",
+      "PackagePath": "staticwebassets\\pool.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\room-1.png",
+      "PackagePath": "staticwebassets\\room-1.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\room-2.png",
+      "PackagePath": "staticwebassets\\room-2.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\room-3.png",
+      "PackagePath": "staticwebassets\\room-3.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\vehicle.svg",
+      "PackagePath": "staticwebassets\\vehicle.svg"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\welcome-img-1.png",
+      "PackagePath": "staticwebassets\\welcome-img-1.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\welcome-img-2.png",
+      "PackagePath": "staticwebassets\\welcome-img-2.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\welcome-img-3.png",
+      "PackagePath": "staticwebassets\\welcome-img-3.png"
+    },
+    {
+      "Id": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\wwwroot\\wifi.svg",
+      "PackagePath": "staticwebassets\\wifi.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Webhotel.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Webhotel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Webhotel.props",
+      "PackagePath": "build\\Webhotel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Webhotel.props",
+      "PackagePath": "buildMultiTargeting\\Webhotel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Webhotel.props",
+      "PackagePath": "buildTransitive\\Webhotel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
