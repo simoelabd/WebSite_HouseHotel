@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "9+M9RETy8i0=",
+  "dgSpecHash": "aQmZ9EEu2C4=",
   "success": true,
   "projectFilePath": "D:\\ETUDES_4éme_années\\C#\\Webhotel\\Webhotel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ouled\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
+    "C:\\Users\\ouled\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\ouled\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
     "C:\\Users\\ouled\\.nuget\\packages\\k4os.compression.lz4\\1.3.8\\k4os.compression.lz4.1.3.8.nupkg.sha512",
     "C:\\Users\\ouled\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.8\\k4os.compression.lz4.streams.1.3.8.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Webhotel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6f631e4cdf97bb01bdfdd6d6f9839f6710cfbd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Webhotel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Webhotel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

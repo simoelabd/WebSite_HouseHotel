@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|d:\\etudes_4\u00E9me_ann\u00E9es\\c#\\webhotel\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|d:\\etudes_4\u00E9me_ann\u00E9es\\c#\\webhotel\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|d:\\etudes_4\u00E9me_ann\u00E9es\\c#\\webhotel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|d:\\etudes_4\u00E9me_ann\u00E9es\\c#\\webhotel\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|solutionrelative:controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|d:\\etudes_4\u00E9me_ann\u00E9es\\c#\\webhotel\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|d:\\etudes_4\u00E9me_ann\u00E9es\\c#\\webhotel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{00DC6A20-3E11-4341-A544-844A9BEDEB40}|Webhotel.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAvwHwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T23:23:05.753Z",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:32:25.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ReservationController.cs",
-              "DocumentMoniker": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Controllers\\ReservationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ReservationController.cs",
-              "ToolTip": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Controllers\\ReservationController.cs",
-              "RelativeToolTip": "Controllers\\ReservationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T23:03:47.032Z",
+              "WhenOpened": "2025-01-14T21:12:17.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Models\\Reservation.cs",
-              "RelativeDocumentMoniker": "Models\\Reservation.cs",
-              "ToolTip": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Models\\Reservation.cs",
-              "RelativeToolTip": "Models\\Reservation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T22:43:12.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\ETUDES_4\u00E9me_ann\u00E9es\\C#\\Webhotel\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAcwFkAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAMwF8AAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-01T16:39:45.506Z",
+              "WhenOpened": "2025-01-14T21:02:56.33Z",
               "EditorCaption": ""
             }
           ]
